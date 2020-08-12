@@ -1,4 +1,8 @@
 @charset "UTF-8";
+html {
+  overflow-x: hidden;
+}
+
 .header {
   background: url("../img/architecture-1727807_1280.jpg") no-repeat center center/cover;
   width: 100vw;
